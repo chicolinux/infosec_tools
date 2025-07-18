@@ -8,6 +8,6 @@ A list of cool and useful open-source security tools that are used on a daily ba
 | --- | ------------------ | ------------------------------------------------------------------------- | ------------------------------ |
 | 1   | Kanvas | KANVAS is an IR (incident response) case management tool with an intuitive desktop interface, built using Python.  | https://github.com/WithSecureLabs/Kanvas |
 | 2   | GitPhish | GitPhish is a comprehensive security research tool designed to perform GitHub's device code authentication flow. | https://github.com/praetorian-inc/GitPhish |
-| 3   | Postman            | API development and testing platform                                      | https://www.postman.com/       |
-| 4   | Git                | Distributed version control system for tracking changes in source code    | https://git-scm.com/           |
+| 3   | GuardDog | GuardDog is a CLI tool that allows to identify malicious PyPI and npm packages or Go modules. | https://github.com/DataDog/guarddog |
+| 4   | SOCBED | SOCBED is a Self-contained Open-source Cyberattack experimentation testBED that uses virtual machines to simulate a small company's network including benign user activity, various cyberattacks, and a central collection of log data. | https://github.com/fkie-cad/socbed |
 | 5   | Figma              | Collaborative interface design tool for creating UI/UX designs            | https://www.figma.com/         |
